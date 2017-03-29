@@ -8,6 +8,8 @@ To run our code, you should :
 
 1. Install the Tensorflow on your computer. With this tutorial :https://www.tensorflow.org/install/ it shouldn't be difficult for you
 
-2. Download the database of 2D images with multi-view with the link in /data/downlink
+2. Download the database of 2D images with multi-view with the link in /data/downloadlink
 
-3. Run our code on the Tensorflow and have fun !
+3. Transfer the 2D images to the format MINIST (see our tutorial in /data)
+
+4. Run our code on the Tensorflow and have fun !
