@@ -1,1 +1,14 @@
+To download the database of SHAPENET CORE55:
+
+http://shapenet.cs.stanford.edu/shrec16/
+
+
+To download the database of multi-view images (12 views):
+
+Download datasets for training/evaluation (should be placed under data/)
+    * modelnet40v1 (12 views w/ upright assumption): [tarball](http://maxwell.cs.umass.edu/mvcnn-data/modelnet40v1.tar) (204M)
+    * modelnet40v2 (80 views w/o upright assumption): [tarball](http://maxwell.cs.umass.edu/mvcnn-data/modelnet40v2.tar) (1.3G)
+    * shapenet55v1 (12 views w/ upright assumption): [tarball](http://maxwell.cs.umass.edu/mvcnn-data/shapenet55v1.tar) (2.4G)
+    * shapenet55v2 (80 views w/o upright assumption): [tarball](http://maxwell.cs.umass.edu/mvcnn-data/shapenet55v2.tar) (15G)
+
 
