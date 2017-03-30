@@ -15,5 +15,5 @@ To run our code, you should :
 4. Read our tutorial and run our code on the Tensorflow.
 
 
-The structrue of CNN which we used is : [[conv - relu]x3 - pool]x3 - fullyconnected - relu - fullyconnected - softmax.
-By now, we did our test on a little database and we achieved a precision which is not very impressive : 30.29%. Next, we should launch our test with more images on a larger database and try more CNN structures. 
+The structure of CNN which we used is : [[conv - relu]x3 - pool]x3 - fullyconnected - relu - fullyconnected - softmax.
+By now, we did our test on a little database and we achieved a precision which is not very impressive : 30.29%. Next, we should launch our test  on a larger database and try more CNN structures with a more powerful server. 
