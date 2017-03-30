@@ -12,4 +12,4 @@ To run our code, you should :
 
 3. Transfer the 2D images to the format MINIST (see our tutorial in /data)
 
-4. Run our code on the Tensorflow and have fun !
+4. Read our tutorial and run our code on the Tensorflow.
